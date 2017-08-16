@@ -1,5 +1,5 @@
 package PackageD
 
-func FuncInPackageD() (string, error) {
-	return "From PackageD", nil
+func FuncInPackageD() string {
+	return "From PackageD"
 }
