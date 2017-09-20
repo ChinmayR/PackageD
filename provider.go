@@ -1,5 +1,5 @@
 package PackageD
 
 func FuncInPackageD() string {
-	return "From PackageD"
+	return "From PackageD clean"
 }
